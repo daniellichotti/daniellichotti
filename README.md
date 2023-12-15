@@ -44,7 +44,7 @@ https://daniellichotti.github.io/
 
 ## Estatísticas do GitHub
 
-<div>
+<div align="center">
 <a href="https://github.com/daniellichotti">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellichotti&layout=compact&langs_count=7"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellichotti&show_icons=true&include_all_commits=true&count_private=true"/>
