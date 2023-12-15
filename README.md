@@ -17,17 +17,17 @@ https://daniellichotti.github.io/
 
 -   Linguagens de Programação
 
-    -   Frontend <br/><br/><br/>
+    -   Frontend <br/><br/>
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org/)
         
 
-    -   Backend<br/><br/><br/>
+    -   Backend<br/><br/>
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>](https://www.python.org/)
 
--   Ferramentas<br/><br/><br/>
+-   Ferramentas<br/><br/>
    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40"/>](https://legacy.reactjs.org/)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>](https://nodejs.org/en)
     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>](https://git-scm.com/)
