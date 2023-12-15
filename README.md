@@ -17,7 +17,7 @@ https://daniellichotti.github.io/
 
 -   Linguagens de Programação
 
-    -   Frontend
+    -   Frontend <br/>
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
