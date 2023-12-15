@@ -82,4 +82,4 @@ https://daniellichotti.github.io/
 Agradeço por visitar o meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/daniellichotti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/daniellichotti/daniellichotti/blob/output/github-contribution-grid-snake.svg)
