@@ -20,13 +20,14 @@ https://daniellichotti.github.io/
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org/)
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40"/>](https://legacy.reactjs.org/)
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>](https://nodejs.org/en)
+        
 
     -   Backend
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>](https://www.python.org/)
 
 -   Ferramentas:
+-   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40"/>](https://legacy.reactjs.org/)
+        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>](https://nodejs.org/en)
     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>](https://git-scm.com/)
     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40"/>](https://www.google.com)
 
@@ -40,9 +41,6 @@ https://daniellichotti.github.io/
 -->
 
 ## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=daniellichotti&show_icons=true&theme=dark)
-
 
 <div>
 <a href="https://github.com/daniellichotti">
