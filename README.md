@@ -1,4 +1,5 @@
-# Daniel Lichotti
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Daniel;Lichotti)](https://git.io/typing-svg)
 
 ## 👋 Hello! Welcome to my Github profile.
 
