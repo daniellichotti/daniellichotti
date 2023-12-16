@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1000&background=7B6EFF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Daniel+Lichotti;Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&multiline=true&random=false&width=435&lines=Daniel+Lichotti;Dev)](https://git.io/typing-svg)
 
 
 ## 👋 Hello! Welcome to my Github profile.
