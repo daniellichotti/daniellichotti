@@ -24,7 +24,6 @@ https://daniellichotti.github.io/
         
 
     -   Backend<br/><br/>
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>](https://www.python.org/)
         [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 -   Ferramentas<br/><br/>
@@ -70,4 +69,6 @@ Agradeço por visitar o meu perfil! Sinta-se à vontade para explorar meus repos
 </div>
 
 
-![Snake animation](https://github.com/daniellichotti/daniellichotti/blob/output/github-contribution-grid-snake.svg)
+<!--- ![Snake animation](https://github.com/daniellichotti/daniellichotti/blob/output/github-contribution-grid-snake.svg) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>](https://www.python.org/)
+-->
