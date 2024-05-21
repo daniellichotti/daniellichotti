@@ -25,6 +25,7 @@ https://daniellichotti.github.io/
 
     -   Backend<br/><br/>
         [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>](https://www.python.org/)
+        [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 -   Ferramentas<br/><br/>
    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40"/>](https://legacy.reactjs.org/)
