@@ -1,74 +1,78 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&multiline=true&random=false&width=435&lines=Daniel+Lichotti;Dev)](https://git.io/typing-svg)
+# 👋 Olá, eu sou Daniel Lichotti
 
+Sou professor de programação e desenvolvedor apaixonado por tecnologia, infraestrutura, sistemas embarcados e projetos **hands-on**. Gosto de entender como as coisas funcionam por baixo do capô — seja código, redes, servidores ou hardware.
 
-## 👋 Hello! Welcome to my Github profile.
+---
 
-## Sobre Mim
+## 🚀 Sobre mim
 
-Eu sou Daniel Lichotti, formado em Engenharia da Computação pelo Inatel em 2023, onde tive contato com as principais tecnologias da atualidade e desenvolvi uma paixão pelo desenvolvimento web.
+* 💻 Desenvolvedor focado em **aplicações web**, **infraestrutura** e **automação**
+* 🐳 Uso frequente de **Docker** para ambientes de desenvolvimento e produção
+* 🖥️ Entusiasta de **Linux**, servidores caseiros, **Proxmox** e virtualização
+* 📦 Curioso por **NAS**, armazenamento, backups e alta disponibilidade
+* 🔧 Gosto de projetos com **SBCs** (Banana Pi, Raspberry Pi, etc.) e sistemas embarcados
+* 🚁 Hobbyista de **drones FPV**, eletrônica e rádio comunicação
 
-## [Portfólio](https://daniellichotti.github.io/)
+---
 
-Meu [Portfólio](https://daniellichotti.github.io/) é um site simples e responsivo, criado com o objetivo de mostrar meus projetos pessoais.
-https://daniellichotti.github.io/
+## 🛠️ Tecnologias e Ferramentas
 
-## Tecnologias e Ferramentas
+### Linguagens
 
--   Linguagens de Programação
+* JavaScript / TypeScript
+* Python
+* Shell Script
 
-    -   Frontend <br/><br/>
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org/)
-        
+### Front-end
 
-    -   Backend<br/><br/>
-        [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>](https://nodejs.org/en)
+* React
+* HTML5 / CSS3
 
--   Ferramentas<br/><br/>
-   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40"/>](https://legacy.reactjs.org/)
-    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>](https://git-scm.com/)
-    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40"/>](https://www.google.com)
+### Back-end
 
-<!---
+* Node
+* Flask
+* Docker & Docker Compose
+* Nginx
+* Linux (Arch/Debian/Ubuntu)
+* Proxmox
 
-## Projetos Destacados
+### Banco de Dados
 
--   [Nome do Projeto]: Breve descrição do projeto e link para o repositório.
--   [Nome do Projeto]: Breve descrição do projeto e link para o repositório.
--   [Nome do Projeto]: Breve descrição do projeto e link para o repositório.
--->
+* PostgreSQL
+* MySQL
+* MongoDB
+* Supabase
 
-## Estatísticas do GitHub
+---
 
-<div align="center">
-<a href="https://github.com/daniellichotti">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellichotti&layout=compact&theme=transparent&langs_count=7"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellichotti&show_icons=true&include_all_commits=true&theme=transparent&count_private=true"/>
-</div>
+## 📂 O que você vai encontrar por aqui
 
+* Projetos pessoais e experimentos
+* Aplicações web e APIs
+* Configurações de servidores e containers
+* Scripts de automação
+* Estudos e provas de conceito
+* Projetos que misturam **software + hardware**
 
+---
 
-<!---
-## Contribuições
+## 📈 Filosofia de desenvolvimento
 
--   [Nome do Projeto]: Link para o projeto e breve descrição da sua contribuição.
--   [Nome do Projeto]: Link para o projeto e breve descrição da sua contribuição.
--->
+* Resolver problemas reais
+* Preferir soluções simples e bem documentadas
+* Aprender fazendo
+* Entender o "porquê", não só o "como"
 
-## Agradecimentos
+---
 
-Agradeço por visitar o meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
+## 📫 Contato
 
-<div align="center">
-<a href="https://instagram.com/daniellichotti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:danielclichotti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/daniel-lichotti-ba8131225" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+* GitHub: [https://github.com/daniellichotti](https://github.com/daniellichotti)
+* Email: danielclichotti@gmail.com
 
+> ⚠️ Este perfil está sempre evoluindo — assim como meus projetos.
 
-<!--- ![Snake animation](https://github.com/daniellichotti/daniellichotti/blob/output/github-contribution-grid-snake.svg) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>](https://www.python.org/)
--->
+---
+
+⭐ Se algum repositório te ajudou, considere deixar uma estrela!
